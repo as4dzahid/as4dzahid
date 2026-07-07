@@ -32,8 +32,3 @@ Tools: Git, SQL, pytest
 📌 Featured projects
 
 ProjectDescriptionResqAiAI disaster decision-support system — risk scoring, shelter matching, and resource allocation
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as4dzahid&show_icons=true&theme=default" alt="Asad's GitHub stats" />
-</p>
